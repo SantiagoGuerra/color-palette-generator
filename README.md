@@ -33,10 +33,10 @@
     <img src="readme-assets/logo.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">Project Name Title</h3>
+  <h3 align="center">Color Palette Generator</h3>
 
   <p align="center">
-    Project Name Subtitle
+    A Hackathon Project
     <br />
     <a href="https://github.com/SantiagoGuerra/color-palette-generator"><strong>Explore the docs »</strong></a>
     <br />
@@ -72,24 +72,15 @@
 
 [![Product Name Screen Shot][product-screenshot]](#)
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mollis ligula lectus, ac eleifend leo luctus in. Quisque dictum risus eget nisi auctor fermentum sit amet et odio.
-
-* Phasellus at viverra nunc, a vulputate tellus.
-* Phasellus at viverra nunc, a vulputate tellus.
-* Phasellus at viverra nunc, a vulputate tellus.
-* Phasellus at viverra nunc, a vulputate tellus.
-* Phasellus at viverra nunc, a vulputate tellus.
-  
-
-Integer luctus dictum dolor at accumsan. Nam eu odio at lorem gravida rutrum vel et augue. Duis ante ante, iaculis at rutrum eu, venenatis vel augue.
+create an application to generate a color palette in less than 4 hours
 
 ### Built With
-* Lorem
-* Lorem
-* Lorem
-* Lorem
-* Lorem
-* Lorem
+* HTML
+* SCSS
+* JavaScript
+* Webpack
+* ColorTiny
+* ColoPickr
   
   
 
@@ -144,7 +135,6 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Santiago Guerra - [@dedalo-g](https://twitter.com/dedalo_g) - guerrasantiago19@gmail.com
 
 Project Link: [https://github.com/santiagoguerra/color-palette-generator](https://github.com/santiagoguerra/color-palette-generator)
 
@@ -152,7 +142,7 @@ Project Link: [https://github.com/santiagoguerra/color-palette-generator](https:
 
 <!-- ACKNOWLEDGEMENTS -->
 ## Acknowledgements
-* [Lorem](https://www.lorem.org/)
+* [Mintbean Hackathon](https://www.mintbean.io/)
 
 
 
